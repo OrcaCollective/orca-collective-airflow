@@ -1,6 +1,6 @@
 # For local dev tooling only, this is separate from requirements_dev.txt because these
 # libraries are not needed within the built docker container in any environment.
-black==24.8.0
+black==24.10.0
 flake8==7.1.1
 isort==5.13.2
 pre-commit==3.8.0

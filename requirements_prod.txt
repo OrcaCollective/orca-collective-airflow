@@ -1,2 +1,2 @@
 # PYTHON=3.12
-apache-airflow[amazon,postgres,http,ssh]==2.10.0
+apache-airflow[amazon,postgres,http,ssh]==2.10.3
